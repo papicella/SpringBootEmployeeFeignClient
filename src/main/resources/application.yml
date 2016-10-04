@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: springboot-emoployee-service-feign
+
+security:
+  basic:
+    enabled: false # turn off securing our application endpoints
+
+management:
+  security:
+    enabled: false
