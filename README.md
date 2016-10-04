@@ -1,13 +1,13 @@
 <h1>Spring Boot Employees - Feign Client</h1>
 
+This demo is a client to the following SERVICE project bound to a Eureka Service Registry service
+
+https://github.com/papicella/SpringBootJPABootstrapEmployeeDemo
+
 Feign is a java to http client binder inspired by Retrofit, JAXRS-2.0, and WebSocket. Feign's first goal was reducing 
 the complexity of binding Denominator uniformly to http apis regardless of restfulness.
 
 ![alt tag](https://dl.dropboxusercontent.com/u/15829935/platform-demos/images/piv-scs-feign-client.png)
-
-This demo is a client to the following SERVICE project bound to a Eureka Service Registry service
-
-https://github.com/papicella/SpringBootJPABootstrapEmployeeDemo
 
 <h3> How Does This work? </h3>
 
