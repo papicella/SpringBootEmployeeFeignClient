@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: springboot-emoployee-service-feign
+    name: springboot-employee-service-feign
 
 security:
   basic:
